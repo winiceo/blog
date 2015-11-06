@@ -4,8 +4,11 @@
   "description": "text",
   "main": "app.js",
   "dependencies": {
+    "avoscloud-sdk": "^0.6.4",
+    "eventproxy": "^0.3.4",
     "express": "^4.13.3",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "request": "^2.65.0"
   },
   "devDependencies": {
     "browser-sync": "^2.9.12",
