@@ -1,0 +1,1 @@
+pm2 startOrGracefulReload pm2.json
